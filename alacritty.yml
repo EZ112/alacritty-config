@@ -1,0 +1,13 @@
+env:
+  TERM: xterm-256color
+
+import:
+  - ~/.config/alacritty/alacritty-theme/themes/github_dark_default.yaml
+
+font:
+  normal:
+    family: MesloLGS Nerd Font Mono
+    style: Regular
+
+window:
+  opacity: 0.6
